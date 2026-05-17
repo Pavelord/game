@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "build": 1,
-  "zip_url": "https://github.com/Pavelord/game/raw/refs/heads/main/Bobux-Windows.zip",
+  "zip_url": "https://github.com/Pavelord/game/archive/refs/tags/latest.zip",
   "sha256": "0D556A9F68A7C28C072F44555DBBA7C9EA434B2827BDBBA3E2DA22B7545DB9EF",
   "executable": "Bobux.exe",
   "notes": "Initial public build"
