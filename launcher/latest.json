@@ -1,8 +1,8 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1.0",
   "build": 1,
-  "zip_url": "https://raw.githubusercontent.com/Pavelord/game/main/Bobux-Windows.zip",
-  "sha256": "0D556A9F68A7C28C072F44555DBBA7C9EA434B2827BDBBA3E2DA22B7545DB9EF",
+  "zip_url": "https://github.com/Pavelord/game/releases/download/latest/Bobux-Windows.zip",
+  "sha256": "49893513A6B2ED40F03D13E73AD2BFF43B7466CE6008F0F9512D56108AC0DD80",
   "executable": "Bobux.exe",
   "notes": "Initial public build"
 }
